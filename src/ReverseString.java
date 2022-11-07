@@ -7,6 +7,7 @@ public class ReverseString {
         reverseString(sentence);
     }
 
+    //Reversed string
     private static void reverseString(String sentence) {
 
         String[] temp = sentence.split(" ");
